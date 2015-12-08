@@ -1,0 +1,9 @@
+2. Exercise 11.39 page 442
+	i) 		Blanks have inherent package access -- YES
+	ii)		private access -- NO
+	iii)	protected access, can be accessed by inherited classes -- YES
+
+3. Exercise 11.40 page 442
+	i)		Blanks -- NO
+	ii)		private access -- NO
+	iii)	protected access -- YES

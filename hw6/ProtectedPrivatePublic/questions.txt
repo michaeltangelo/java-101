@@ -1,0 +1,12 @@
+1. Define in your own words the difference between protected, private and public
+variable.
+
+Protected: can be accessed by the class, the package, and the subclass.
+Private: can be accessed ONLY by the class.
+Public: can be accessed by the class, the package, the subclass, and the world.
+
+
+2. Give a comprehensive example in Java using (Java code) on using protected, private
+and public on data members. Comment and explain your code.
+
+Check AccessExamples.java
